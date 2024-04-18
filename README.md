@@ -7,6 +7,7 @@ Hi, I'm Becky! I am a Back-end Developer of web. I am enthusiastic about solving
 
 Complete Data structure and Algorithm courses to improve efficiency in LeetCode as well as coding skills. Besides, accomplish a board game on web in this year!
 
+
 🧠 Skills
 
 Front-end : HTML, CSS, Bootstrap
@@ -14,6 +15,7 @@ Back-end : Node.js, Express, Sequelize ORM
 DB : MySQL, Redis
 DevOps: Docker, AWS (ECR, EC2, ELB)
 Others: Git, SourceTree, Postman, RESTful API
+
 
 💡 Projects
 
