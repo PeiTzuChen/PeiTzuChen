@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi, I'm Becky! I am a Back-end Developer of web. I am enthusiastic about solving problem in our lives through software skills which is tha main reason why I decide to dedicate in this filed. 
 
-<!--
-**PeiTzuChen/PeiTzuChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Leetcode](https://leetcode.com/beckychen0923)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Goals of 2024
+Complete Data structure and Algorithm courses to improve efficiency in LeetCode as well as coding skills. Besides, accomplish a board game on web in this year!
+
+🧠 Skills
+Front-end : HTML, CSS, Bootstrap
+Back-end : Node.js, Express, Sequelize ORM
+DB : MySQL, Redis
+DevOps: Docker, AWS (ECR, EC2, ELB)
+Others: Git, SourceTree, Postman, RESTful API
+
+💡 Projects
+[tutor-online](https://tutoring-platform-becky.vercel.app/signin)
+
